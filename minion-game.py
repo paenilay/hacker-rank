@@ -2,10 +2,9 @@
 Difficulty: Medium
 '''
 def minion_game(string):
-    # your code goes here
-    Stuart = dict()
+    
     scount = 0
-    Kevin = dict()
+    
     kcount = 0
     vowel = ['a','e','i','o','u','A','E','I','O','U']
     for i in range(0,len(string)):
